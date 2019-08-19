@@ -49,8 +49,14 @@ Its runtime complexity is O(n) -- it loops through every number between 2 and n,
 
 ## Drill 12
 
-See drills.js, functions {whatever}
+See drills.js
 
 ## Drill 13
+
+1. O(n) - makes n recursive function calls, performs constant number of operations in each call
+2. O(n)
+3. O(n)
+4. O(n)
+4. O(n)
 
 ## Drill 14
