@@ -57,6 +57,12 @@ See drills.js
 2. O(n)
 3. O(n)
 4. O(n)
-4. O(n)
+5. O(n)
+6. O(n)
+7. O(n)
+8. O(n)?
+9. ??
 
 ## Drill 14
+
+All have runtime O(n)
