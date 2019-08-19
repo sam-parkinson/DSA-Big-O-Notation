@@ -35,3 +35,22 @@ Its runtime complexity is O(n) -- it performs one operation for 1 and 2, then fo
 O(log n) -- each operation cuts size of problem in half, as size of input increases, amount of steps increases more slowly
 
 ## Drill 9
+
+O(1) -- performs a constant number of operations regardless of length of the array
+
+## Drill 10
+
+This function accepts a number, checks if it is not one or zero, then attempts to find a divisor, returning false if a divisor exists and returning true if the number inputted is a prime number.
+Its runtime complexity is O(n) -- it loops through every number between 2 and n, then performs a constant number of operations on each number
+
+## Drill 11
+
+### Tower of Hanoi
+
+## Drill 12
+
+See drills.js, functions {whatever}
+
+## Drill 13
+
+## Drill 14
